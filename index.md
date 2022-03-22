@@ -15,6 +15,6 @@ Department of Economics<br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+[Email: atm18b@my.fsu.edu](mailto:atm18b@my.fsu.edu)
 
 [Web Page:](https://paulmbeaumont.netlify.app/)
