@@ -7,4 +7,4 @@ Here are examples of research projects generated with R Studio using TidyR and R
 
 Project | Description | HTML Output | Rmd Code
 --- | --- | --- | ---
-Forecasting Inflation | Use FRED data to forecast inflation | [html](https://github.com/abigailtmorgan/Forecasting-Inflation) | [code](https://github.com/abigailtmorgan/Forecasting-Inflation)
+Forecasting Inflation | Use FRED data to forecast inflation | [html](https://abigailtmorgan.github.io/Forecasting-Inflation/) | [code](https://github.com/abigailtmorgan/Forecasting-Inflation)
